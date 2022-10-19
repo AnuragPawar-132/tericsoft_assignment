@@ -1,0 +1,25 @@
+{
+    "userdetails" : [
+        {
+          ":name": "masai",
+          "email": "masai@gmail.com",
+          "password": "masai@123"
+        },
+        {
+          "name": "anurag",
+          "email": "anurag@gmail.com",
+          "password": "anurag@123"
+        }
+      ],
+    
+      "bmi" : [
+        {
+          "email": "anurag@gmail.com",
+          "bmi": 20.1
+        },
+        {
+          "email": "masai@gmail.com",
+          "bmi": 21.5
+        }
+      ]
+}

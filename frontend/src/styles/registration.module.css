@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+    gap:20px;
+}
+.button{
+    height: 35px;
+}
+.input_tag{
+    height: 33px;
+}
+
+@media all and (max-width: 480px)
+{
+    .container{
+        width: 90%;
+    }
+}
+@media all and (max-width: 720px)
+{
+    .container{
+        width: 60%;
+    }
+}
